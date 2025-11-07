@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _maxSteps: 1000
   noiseType: 3
-  frequency: 1
+  frequency: 0.1
   amplitude: 1
   fractalType: 1
   octaves: 3

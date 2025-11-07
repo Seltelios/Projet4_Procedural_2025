@@ -12,4 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3df598ba436ee57479fc6b2931207c9a, type: 3}
   m_Name: New Test_Noise_Perso
   m_EditorClassIdentifier: 
-  _maxSteps: 1000
+  _maxSteps: 10
+  noiseType: 0
+  frequency: 0.0555
+  amplitude: 1.114
+  fractalType: 1
+  octaves: 3
+  lacunarity: 2
+  persistence: 0.5
+  waterHeight: 0.11
+  sandHeight: 0.26
+  grassHeight: 0.64
+  rockHeight: 1
