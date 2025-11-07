@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf7d8a3741b0434fbd5300846b2e541, type: 3}
+  m_Name: New Noise Generator
+  m_EditorClassIdentifier: 
+  _maxSteps: 5
+  noiseType: 0
+  frequency: 0.075
+  amplitude: 1.3
+  fractalType: 1
+  octaves: 3
+  lacunarity: 2
+  persistence: 0.5
+  waterHeight: 0.1
+  sandHeight: 0.15
+  grassHeight: 0.8
+  rockHeight: 1
