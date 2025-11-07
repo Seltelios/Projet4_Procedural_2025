@@ -13,6 +13,7 @@ public class Noise_Test : ProceduralGenerationMethod
     public FastNoiseLite.NoiseType noiseType = FastNoiseLite.NoiseType.Perlin;
     [Range(0.01f, 0.1f)] public float frequency = 1f;
     [Range(0.5f, 1.5f)] public float amplitude = 1f;
+    public int seed = 1234;
 
     [Header("Fractal Settings")]
     public FastNoiseLite.FractalType fractalType = FastNoiseLite.FractalType.FBm;
@@ -54,7 +55,7 @@ public class Noise_Test : ProceduralGenerationMethod
 
     public FastNoiseLite InitNoise()
     {
-        var noise = new FastNoiseLite();
+        var noise = new FastNoiseLite(seed);
 
         noise.SetNoiseType(noiseType);
         noise.SetFrequency(frequency);
