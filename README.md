@@ -14,6 +14,7 @@
 - [SimpleRoomPlacement](#SimpleRoomPlacement)
 - [BSP](#BSP)
 - [CellularAutomata](#CellularAutomata)
+- [Noise](#Noise)
 
 
 - - -
@@ -69,6 +70,28 @@ Partie explication BSP
 ### CellularAutomata
 - - -
 Partie explication Cellular Automata
+
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+
+- - -
+### Noise
+- - -
+Partie explication Noise
 
 1.
 1.
