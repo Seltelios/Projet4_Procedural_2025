@@ -21,7 +21,7 @@
 ### Initialisation
 <br>
 
-Partie explication initialisation: <br>
+Comment initialiser ce genre de projet ? <br>
 Utilisation de **`UniTask`**: <br>
 --> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation)) <br>
 <br>
@@ -71,7 +71,14 @@ On retrouve les exemples de: <br>
 ## SimpleRoomPlacement
 <br>
 
-Partie explication SimpleRoomPlacement
+A l'ouverture du projet Unity, utiliser la scène `GridGenerator`.
+Sur le GameObject `ProceduralGridGenerator`, vérifier que la variable GenerationMethod utilise le scriptableObject `Simple Room Placement`.
+
+<img width="30%" src="Prj4_Jours1/Documentation/ProceduralGridGenerator_ScriptableObject_SimpleRoom.png"></img> <br>
+
+Si ce n'est pas le bon scriptableObject, pas de panique, pour le trouver: <br>
+Assets > Components > ProceduralGeneration > 0_SimpleRoomPlacement > `SimpleRoomPlacement` <br>
+Simple glisser/déposer dans l'inspector de ProceduralGridGenerator > GenerationMethod. <br>
 
 
 1.
