@@ -30,6 +30,7 @@ Sur Unity, sur un projet 3D: <br>
 --> Onglet >Edit <br>
 --> Project Setting <br>
 --> Package Manager <br>
+<img width="30%" src="Prj4_Jours1/Documentation/PackageManager_NameUrlScope_UniTask.png"></img>
 <img width="50%" src="Prj4_Jours1/Documentation/SetupUniTask_Unity_FullOnglet.png"></img>
 
 <br>
