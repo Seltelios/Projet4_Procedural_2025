@@ -9,20 +9,12 @@
 
 ## Table of Contents
 - - -
-<details>
-<summary>Details</summary>
+
 - [SimpleRoomPlacement](#SimpleRoomPlacement)
 - [BSP](#BSP)
 - [CellularAutomata](#CellularAutomata)
  
-</details>
 - - -
-
-### SimpleRoomPlacement
-- - -
-
-
-
 ### SimpleRoomPlacement
 - - -
 Partie explication SimpleRoomPlacement
@@ -47,7 +39,7 @@ Partie explication SimpleRoomPlacement
 5.
 5.
 
-
+- - -
 ### BSP
 - - -
 Partie explication BSP
@@ -72,34 +64,34 @@ Partie explication BSP
 5.
 5.
 5.
-5
-5
+5.
+5.
 
 
 
 
 
+- - -
+### CellularAutomata
+- - -
+Partie explication Cellular Automata
 
- ### CellularAutomata
- - - -
- Partie explication Cellular Automata
-
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
