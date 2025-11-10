@@ -22,7 +22,7 @@
 - - -
 Partie explication initialisation: <br>
 Utilisation de **`UniTask`**: <br>
---> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation)
+--> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation) <br>
 
 <br>
 
@@ -30,8 +30,8 @@ Sur Unity, sur un projet 3D: <br>
 --> Onglet >Edit <br>
 --> Project Setting <br>
 --> Package Manager <br>
-<img width="30%" src="Prj4_Jours1/Documentation/PackageManager_NameUrlScope_UniTask.png"></img>
-<img width="50%" src="Prj4_Jours1/Documentation/SetupUniTask_Unity_FullOnglet.png"></img>
+<img width="30%" src="Prj4_Jours1/Documentation/PackageManager_NameUrlScope_UniTask.png"></img> <br>
+<img width="50%" src="Prj4_Jours1/Documentation/SetupUniTask_Unity_FullOnglet.png"></img> <br>
 
 <br>
 
@@ -43,8 +43,8 @@ Sur Unity, sur un projet 3D: <br>
 
 <br>
  
-<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name.png"></img>
-<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name_InputField.png"></img>
+<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name.png"></img> <br>
+<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name_InputField.png"></img> <br>
 
 <br>
 
