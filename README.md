@@ -24,20 +24,28 @@ Partie explication initialisation:
 Utilisation de **`UniTask`**:  
 --> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation)
 
+<br>
+
 Sur Unity, sur un projet 3D:
 --> Onglet >Edit  
 --> Project Setting  
 --> Package Manager
 <img width="50%" src="Prj4_Jours1/Documentation/SetupUniTask_Unity_FullOnglet.png"></img>
 
+<br>
+
  Une fois validé, on peut fermer la fenêtre puis:
  --> Onglet >Window  
  --> Package Manager
  --> [+]
  --> Name: `com.cysharp.unitask` | version: `2.5.10`
-<img width="50%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name.png"></img>
-<img width="50%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name_InputField.png"></img>
 
+<br>
+ 
+<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name.png"></img>
+<img width="25%" src="Prj4_Jours1/Documentation/Unity_Package_Plus_Name_InputField.png"></img>
+
+<br>
 
 Une fois UniTask correctement installé, on peut importer le package découverte de l'intervenant.  
 [**LienDriveCampus**](https://drive.google.com/drive/folders/1QxmWzBSGsTq-miRODwUX_zA8UEcFaUDW)  
