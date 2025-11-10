@@ -7,7 +7,7 @@ Semaine Théorique sur Unity - `Jeu Procédurale`
 - - -
 - [SimpleRoomPlacement](#simple-room)
 - [BSP](#bsp)
-- [CellularAutomata](#cell-automata)
+- [CellularAutomata](#cellular-automata)
 
 
 ### ImpleRoomPlacement
@@ -20,24 +20,24 @@ Semaine Théorique sur Unity - `Jeu Procédurale`
 Partie explication SimpleRoomPlacement
 
 
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
 
 
 ### BSP
@@ -45,25 +45,25 @@ Partie explication SimpleRoomPlacement
 Partie explication BSP
 
 
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
+5.
 5
 5
 
