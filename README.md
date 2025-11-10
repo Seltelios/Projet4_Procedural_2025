@@ -1,7 +1,7 @@
-<img width="80%" src="Prj4_Jours1/Documentation/Projet4_JeuProcedural.png"></img>
+<img width="80%" src="Prj4_Jours1/Documentation/Projet4_JeuProcedural.png"/>
 - - -
 **BOURDON Julien**
-> Gaming Campus - GTech3  
+> Gaming Campus - GTech3 <br>
 > Group GameBoy - 2025 <br>
 > Semaine Théorique sur Unity - `Jeu Procédurale` <br>
 - - -
@@ -9,11 +9,13 @@
 
 ## Table of Contents
 - - -
-
+<details>
+<summary>Details</summary>
 - [SimpleRoomPlacement](#SimpleRoomPlacement)
 - [BSP](#BSP)
 - [CellularAutomata](#CellularAutomata)
-
+ 
+</details>
 - - -
 
 ### SimpleRoomPlacement
