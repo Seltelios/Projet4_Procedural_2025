@@ -5,13 +5,9 @@ Semaine Théorique sur Unity - `Jeu Procédurale`
 
 ## Table of Contents
 - - -
-<detail>
-<summary> Table Of Contents </summary>
-- - -
 - [SimpleRoomPlacement](#simple-room)
 - [BSP](#bsp)
 - [CellularAutomata](#cell-automata)
-</detail>
 
 
 ### ImpleRoomPlacement
