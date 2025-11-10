@@ -20,25 +20,25 @@
 - - -
 ### Initialisation
 - - -
-Partie explication initialisation:
-Utilisation de **`UniTask`**:  
+Partie explication initialisation: <br>
+Utilisation de **`UniTask`**: <br>
 --> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation)
 
 <br>
 
-Sur Unity, sur un projet 3D:
---> Onglet >Edit  
---> Project Setting  
---> Package Manager
+Sur Unity, sur un projet 3D: <br>
+--> Onglet >Edit <br>
+--> Project Setting <br>
+--> Package Manager <br>
 <img width="50%" src="Prj4_Jours1/Documentation/SetupUniTask_Unity_FullOnglet.png"></img>
 
 <br>
 
- Une fois validé, on peut fermer la fenêtre puis:
- --> Onglet >Window  
- --> Package Manager
- --> [+]
- --> Name: `com.cysharp.unitask` | version: `2.5.10`
+ Une fois validé, on peut fermer la fenêtre puis: <br>
+ --> Onglet: Window  <br>
+ --> Package Manager <br>
+ --> [+] <br>
+ --> Name: `com.cysharp.unitask` | version: `2.5.10` <br>
 
 <br>
  
@@ -47,9 +47,11 @@ Sur Unity, sur un projet 3D:
 
 <br>
 
-Une fois UniTask correctement installé, on peut importer le package découverte de l'intervenant.  
-[**LienDriveCampus**](https://drive.google.com/drive/folders/1QxmWzBSGsTq-miRODwUX_zA8UEcFaUDW)  
-Nom du package: `ArchitectureProceduralGeneration.unitypackage`
+Une fois UniTask correctement installé, on peut importer le package découverte de l'intervenant. <br>  
+[**LienDriveCampus**](https://drive.google.com/drive/folders/1QxmWzBSGsTq-miRODwUX_zA8UEcFaUDW) <br>
+Nom du package: `ArchitectureProceduralGeneration.unitypackage` <br>
+
+<br>
 
 - - -
 ### SimpleRoomPlacement
