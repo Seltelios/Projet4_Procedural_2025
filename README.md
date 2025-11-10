@@ -1,9 +1,9 @@
 <img width="80%" src="Prj4_Jours1/Documentation/Projet4_JeuProcedural.png"></img>
 - - -
-**BOURDON Julien** 
-Gaming Campus - GTech3
-Group GameBoy - 2025
-Semaine Théorique sur Unity - `Jeu Procédurale`
+**BOURDON Julien** \n
+Gaming Campus - GTech3 \n
+Group GameBoy - 2025 \n
+Semaine Théorique sur Unity - `Jeu Procédurale` \n
 - - -
 
 
