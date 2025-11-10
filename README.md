@@ -10,34 +10,42 @@
 ## Table of Contents
 - - -
 
+- [Initialisation](#Initialisation)
 - [SimpleRoomPlacement](#SimpleRoomPlacement)
 - [BSP](#BSP)
 - [CellularAutomata](#CellularAutomata)
- 
+
+
+- - -
+### Initialisation
+- - -
+Partie explication initialisation:
+
+Setup Unity
+Package a importer
+Config à faire sur Unity
+
 - - -
 ### SimpleRoomPlacement
 - - -
 Partie explication SimpleRoomPlacement
 
 
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
 
 - - -
 ### BSP
@@ -45,53 +53,37 @@ Partie explication SimpleRoomPlacement
 Partie explication BSP
 
 
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-
-
-
-
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
 
 - - -
 ### CellularAutomata
 - - -
 Partie explication Cellular Automata
 
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
-5.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
