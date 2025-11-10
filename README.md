@@ -1,4 +1,4 @@
-<img width="80%" src="Prj4_Jours1/Documentation/Projet4_JeuProcedural.png"/>
+<img width="80%" src="Prj4_Jours1/Documentation/Projet4_JeuProcedural.png"></img>
 - - -
 **BOURDON Julien**
 > Gaming Campus - GTech3 <br>
