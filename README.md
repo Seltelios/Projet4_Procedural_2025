@@ -5,12 +5,12 @@ Semaine Théorique sur Unity - `Jeu Procédurale`
 
 ## Table of Contents
 - - -
-- [SimpleRoomPlacement](#simple-room)
-- [BSP](#bsp)
-- [CellularAutomata](#cellular-automata)
+- [SimpleRoomPlacement](#SimpleRoomPlacement)
+- [BSP](#BSP)
+- [CellularAutomata](#CellularAutomata)
 
 
-### ImpleRoomPlacement
+### SimpleRoomPlacement
 ---
 
 
