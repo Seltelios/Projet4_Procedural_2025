@@ -7,7 +7,8 @@
 - - -
 
 
-### Table Of Contents
+### Sommaires
+<br>
 
 - [Initialisation](#Initialisation)
 - [SimpleRoomPlacement](#SimpleRoomPlacement)
@@ -18,7 +19,8 @@
 
 - - -
 ### Initialisation
-- - -
+<br>
+
 Partie explication initialisation: <br>
 Utilisation de **`UniTask`**: <br>
 --> Guide d'installation ([**Lien UniTask OpenUPM**](https://openupm.com/packages/com.cysharp.unitask/#modal-manualinstallation)) <br>
@@ -67,7 +69,8 @@ On retrouve les exemples de: <br>
 
 - - -
 ### SimpleRoomPlacement
-- - -
+<br>
+
 Partie explication SimpleRoomPlacement
 
 
@@ -89,7 +92,8 @@ Partie explication SimpleRoomPlacement
 
 - - -
 ## BSP
-- - -
+<br>
+
 Partie explication BSP
 
 
@@ -107,7 +111,8 @@ Partie explication BSP
 
 - - -
 ## CellularAutomata
-- - -
+<br>
+
 Partie explication Cellular Automata
 
 1.
@@ -129,7 +134,8 @@ Partie explication Cellular Automata
 
 - - -
 ## Noise
-- - -
+<br>
+
 Partie explication Noise
 
 1.
