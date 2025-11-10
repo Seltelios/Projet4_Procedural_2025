@@ -68,7 +68,7 @@ On retrouve les exemples de: <br>
 <br>
 
 - - -
-### SimpleRoomPlacement
+## SimpleRoomPlacement
 <br>
 
 Partie explication SimpleRoomPlacement
