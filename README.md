@@ -80,6 +80,8 @@ Si ce n'est pas le bon scriptableObject, pas de panique, pour le trouver: <br>
 Assets > Components > ProceduralGeneration > 0_SimpleRoomPlacement > `SimpleRoomPlacement` <br>
 Simple glisser/déposer dans l'inspector de ProceduralGridGenerator > GenerationMethod. <br>
 
+Ici, on décortique justement le script du ScriptableObject `Simple Room Placement.cs` <br>
+
 
 1.
 1.
