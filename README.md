@@ -107,24 +107,33 @@ Room1 --> Room2 --> Room3 --> etc. <br>
 ## BSP
 <br>
 
-On utlise toujours `ProceduralGridGenerator`, mais cette fois on utilise le scriptableObject `New BSP_Correction`.
-Libre à vous d'utiliser et voir le rendu des autres BSP présent dans le dossier BSP.
-Voici les différentes étapes du BSP:
+On utilise toujours `ProceduralGridGenerator`, mais cette fois on utilise le scriptableObject `New BSP_Correction`. <br>
+Libre à vous d'utiliser et de voir le rendu des autres BSP présents dans le dossier BSP. <br>
+Rappel sur `Binary Tree`: <br>
+<img width="30%" src="Prj4_Jours1/Documentation/Screen_BSP/BinaryTree.png"></img> <br>
+<br>
+Voici les différentes étapes du BSP imagé par un exemple possible: <br>
 
-1. Création de la grille principale
-2. Utilise la récursivité pour couper la dernière grille créer en deux (avec un ratio Horizontal ou Vertical dans l'inspector):
-   - Feuille principale
-4. 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_0Split.png"></img> <br>
+Création de la grille mère appelée `Root`. <br>
+2. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_1Split.png"></img> <br>
+Création des `Sisters`. <br>
+Avec une coupe aléatoire entre coupe verticale ou horizontale.
+3. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_2Split.png"></img> <br>
+Continue la création d'autres Sisters dans les Sisters. <br>
+4. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_3Split.png"></img> <br>
+Arrête la découpe s'il est impossible de créer d'autreq Sisters tout en respectant les paramètres de tailles minim les. <br>
+S'arrête également si on a atteints les steps maximum possible. <br>
+--> Résultat: Atteinte des Leafs utilisables. <br>
+5. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_BuildRoom.png"></img> <br>
+Création des Rooms dans chacune des Leafs, respectant les paramètres inspector (taille et offSet entre le leaf).
+6. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_BuildCorridor.png"></img> <br>
+Création des Corridors, reliant chaque Sisters entre elles (on remonte le BinaryTree). <br>
+Couloir en forme de "L", passant par le centre des Rooms (pas des Leafs). <br>
+Couloir "L" alterne entre vertical ou horizontal également.
+7. <br> <img width="20%" src="Prj4_Jours1/Documentation/Screen_BSP/Feuille1_BuildFinal.png"></img> <br>
+Résultat final, layer Room > Corridor pour le rendu final.
+
 
 - - -
 ## CellularAutomata
