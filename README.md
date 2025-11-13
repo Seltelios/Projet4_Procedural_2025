@@ -68,6 +68,17 @@ On retrouve les exemples de: <br>
 <br>
 
 - - -
+
+**Informations Utiles**
+<br>
+
+--> SEED: <br>
+- Ici, on utilise RandomService() avec la Seed pour gérer l'aléatoire. <br>
+- En programmation, l'utilisation d'une Seed permet d'avoir du Pseudo-Aléatoire. <br>
+- En changeant la Seed, on change le résultat, si on réutilise cette même Seed, on retrouvera le même résultat. <br>
+- Utiliser la même façon de gérer l'aléatoire (en utilisant RandomService, permet de retrouver les mêmes décors, mêmes générations en utilisant la même Seed. <br>
+
+- - -
 ## SimpleRoomPlacement
 <br>
 
@@ -80,33 +91,30 @@ Si ce n'est pas le bon scriptableObject, pas de panique, pour le trouver: <br>
 Assets > Components > ProceduralGeneration > 0_SimpleRoomPlacement > `SimpleRoomPlacement` <br>
 Simple glisser/déposer dans l'inspector de ProceduralGridGenerator > GenerationMethod. <br>
 
-Ici, on décortique justement le script du ScriptableObject `Simple Room Placement.cs` <br>
+Voici les étapes du ScriptableObject `Simple Room Placement.cs` <br>
+1. Créer une `Room` de taille aléatoire compris entre `minSizeX / minSizeY` et `maxSizeX / maxSizeY` indiqué dans l'inspetor.
+2. Positionne la `Room` aléatoirement dans la grille.
+3. Vérifie si la nouvelle `Room` ne chevauche pas une room déjà en place.
+4. Réitère l'étape 1 à 3 jusqu'à atteindre `MaxRooms` ou `MaxSteps` inscrit dans l'inspector.
 
+5. Une fois l'étape 4 finis, on relie ensuite les rooms entres-elles. <br>
+En passant par le centre des rooms, on créé des couloirs en forme de "L" en suivant l'ordre d'instanciation: <br>
+Room1 --> Room2 --> Room3 --> etc. <br>
+<br>
 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
 
 - - -
 ## BSP
 <br>
 
-Partie explication BSP
+On utlise toujours `ProceduralGridGenerator`, mais cette fois on utilise le scriptableObject `New BSP_Correction`.
+Libre à vous d'utiliser et voir le rendu des autres BSP présent dans le dossier BSP.
+Voici les différentes étapes du BSP:
 
-
-1.
+1. Création de la grille principale
+2. Utilise la récursivité pour couper la dernière grille créer en deux (avec un ratio Horizontal ou Vertical dans l'inspector):
+   - Feuille principale
+4. 
 1.
 1.
 1.
