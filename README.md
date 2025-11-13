@@ -78,18 +78,21 @@ On retrouve les exemples de: <br>
 - En changeant la Seed, on change le résultat, si on réutilise cette même Seed, on retrouvera le même résultat. <br>
 - Utiliser la même façon de gérer l'aléatoire (en utilisant RandomService, permet de retrouver les mêmes décors, mêmes générations en utilisant la même Seed. <br>
 
-- - -
-## SimpleRoomPlacement
-<br>
-
+--> Configuration: <br>
 A l'ouverture du projet Unity, utiliser la scène `GridGenerator`.
-Sur le GameObject `ProceduralGridGenerator`, vérifier que la variable GenerationMethod utilise le scriptableObject `Simple Room Placement`.
+Sur le GameObject `ProceduralGridGenerator`, vérifier que la variable GenerationMethod utilise le scriptableObject concerné.
 
 <img width="30%" src="Prj4_Jours1/Documentation/ProceduralGridGenerator_ScriptableObject_SimpleRoom.png"></img> <br>
 
 Si ce n'est pas le bon scriptableObject, pas de panique, pour le trouver: <br>
-Assets > Components > ProceduralGeneration > 0_SimpleRoomPlacement > `SimpleRoomPlacement` <br>
-Simple glisser/déposer dans l'inspector de ProceduralGridGenerator > GenerationMethod. <br>
+Assets > Components > ProceduralGeneration --> Dossier de la partie concerné. <br>
+Simple glisser/déposer du ScriptableObejct dans l'inspector de ProceduralGridGenerator > GenerationMethod. <br>
+
+- - -
+## SimpleRoomPlacement
+<br>
+
+On utilise `ProceduralGridGenerator`, et on utilise le scriptableObject `SimpleRoomPlacement`. <br>
 
 Voici les étapes du ScriptableObject `Simple Room Placement.cs` <br>
 1. Créer une `Room` de taille aléatoire compris entre `minSizeX / minSizeY` et `maxSizeX / maxSizeY` indiqué dans l'inspetor.
