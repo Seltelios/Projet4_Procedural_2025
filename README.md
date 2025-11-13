@@ -190,5 +190,5 @@ Les étapes du script: <br>
 <br>
 Remerciement: <br>
 Merci GamingCampus pour le Cursus GTech. <br>
-Et un GRAND Merci à `RUTKOWSKI Yona` pour son intervention durant ce projet. <br>
+Et un GRAND Merci à **RUTKOWSKI Yona** pour son intervention durant ce projet. <br>
 
