@@ -172,7 +172,11 @@ En comparaison avec CellularAutomata, ici on est baigné dans les paramètres da
 - `frequency` : Gère la fréquence du bruit, petit -> Grande frome, grand -> plus petite
 - `amplitude` : Influence la “hauteur” gloable.
 - `fractalType`, `octaves`, `lacunarity`, `persistence` : Paramètres pour faire plusieurs couches et ajouter du détail.
-- `waterHeight`, `sandHeight`, `grassHeight`, `rockHeight` : Seuils de hauteur pour décider si une case sera Water, Sand, Grass ou Rock.
+- `HeightMap`: <br>
+On gère la coloration des tuiles en fonction de la hauteur des tuiles. <br>
+On retrouve ici: <br>
+`waterHeight`, `sandHeight`, `grassHeight`, `rockHeight`. <br>
+Dans l'inspector, on peut paramètrer le seuils de hauteur pour décider si une case sera Water, Sand, Grass ou Rock.
 
 Exemple de rendu: <br>
 <br> <img width="20%" src="Prj4_Jours1/Documentation/Noise/Exemple_Noise1.png"></img> <br>
